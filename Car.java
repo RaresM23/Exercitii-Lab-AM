@@ -25,9 +25,9 @@ class Truck extends Car {
     @Override
     double getSalePrice() {
         if (weight > 2000) {
-            return super.getSalePrice() * 0.9; // 10% discount
+            return super.getSalePrice() * 0.9;
         } else {
-            return super.getSalePrice() * 0.8; // 20% discount
+            return super.getSalePrice() * 0.8;
         }
     }
 }
@@ -59,9 +59,9 @@ class Sedan extends Car {
     @Override
     double getSalePrice() {
         if (length > 20) {
-            return super.getSalePrice() * 0.95; // 5% discount
+            return super.getSalePrice() * 0.95;
         } else {
-            return super.getSalePrice() * 0.9; // 10% discount
+            return super.getSalePrice() * 0.9;
         }
     }
 }

@@ -3,14 +3,12 @@ public class Lab1MOBEx4 {
     private int age;
     private String gender;
 
-    // Constructor
     public Lab1MOBEx4(String name, int age, String gender) {
         this.name = name;
         this.age = age;
         this.gender = gender;
     }
 
-    // Getter methods
     public String getName() {
         return name;
     }
@@ -23,7 +21,6 @@ public class Lab1MOBEx4 {
         return gender;
     }
 
-    // Setter methods
     public void setName(String name) {
         this.name = name;
     }
