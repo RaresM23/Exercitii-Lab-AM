@@ -7,7 +7,7 @@ public class EncapsulationExample {
         System.out.println("Age: " + person1.getAge());
         System.out.println("Gender: " + person1.getGender());
 
-        person1.setName("Bob");
+        person1.setName("Alex");
         person1.setAge(25);
         person1.setGender("Male");
 
