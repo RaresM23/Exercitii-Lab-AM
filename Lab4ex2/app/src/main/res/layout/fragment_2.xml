@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fragment2color"
+    tools:context=".Fragment2">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Matematica este un limbaj universal al logică și al rațiunii, care ne permite să explorăm și să înțelegem structurile și modelele din jurul nostru. Este mai mult decât o simplă materie școlară; este o disciplină vastă și fascinantă care se întinde de la concepte simple, cum ar fi numerele și operațiile elementare, până la teorii avansate, cum ar fi algebră abstractă, analiză matematică și geometrie diferențială."
+        android:textSize="30sp"
+        android:layout_centerInParent="true"
+        android:textColor="@color/black"/>
+
+</RelativeLayout>
