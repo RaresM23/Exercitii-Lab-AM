@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab5ex1</string>
+    <string name="first_intent">First Intent</string>
+    <string name="second_intent">Second Intent</string>
+    <string name="third_intent">Third Intent</string>
+</resources>
